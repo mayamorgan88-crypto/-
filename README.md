@@ -5,12 +5,11 @@
 ---
 
 ##  Team Members
-**Leader [Mayar Mohamed]** 
- - **[Abdulsalam Ebrahim]**
-  -**[Afnan Ghoneim]**   
-  -**[Noura Mohamed]**  
-  -**[Zainab Hany]**  
-
+- **[Leader Mayar Mohamed]** 
+- **[Abdulsalam Ebrahim]** 
+- **[Afnan Ghoneim]** 
+- **[Noura Mohamed]** 
+- **[Zainab Hany]**
 
 ---
 
